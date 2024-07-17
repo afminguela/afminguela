@@ -10,10 +10,15 @@
 
 Hello! I'm Ana Fernández Minguela, an experienced Project Manager and UX Designer with over 20 years in the technology and media industries. I have a proven track record in leading cross-functional teams, implementing Agile methodologies (Lean, Kaizen, Scrum), and designing user-centric digital products. I am committed to delivering innovative and efficient solutions that meet user needs and business goals.
 
-## Skills
+## My Favourite Projects
+
+- ####Task Manager ([https://github.com/afminguela/Proyecto_Tareas]): a Simple task manager, close to reality and centered on UX. Made with Js and a fakeRestAPI with JsonServer
+- ####ReceKé ([https://github.com/afminguela/receke-deploy]): TFM of the Frontend Dev certificate done to deploy at Vercel. This project was developed in collab with others students, I developed PM functions also web deployment, Git Merging, Pinia deploy and Wireframing with Figma. 
+
+## Soft and Hard Skills
 
 ### Project Management
-- Agile Methodologies (Scrum, Lean, Kanban)
+- Agile Methodologies (Scrum, Lean, Kaizen)
 - Team Coordination
 - Process Optimization
 - Budget Management
@@ -32,13 +37,14 @@ Hello! I'm Ana Fernández Minguela, an experienced Project Manager and UX Design
 - HTML, CSS, JavaScript
 - Responsive Web Design
 - Git/GitHub
-- Frameworks (React, Angular)
+- Frameworks (Vue.js, TailwindCSS, Bootstrap)
 
 ### Tools
 - Jira, Trello, Confluence
-- SharePoint
+- SharePoint, Teams, Slack
 - Microsoft Office Suite
-- Adobe Creative Suite
+- Adobe Creative Suite, Canva
+- Notion
 
 ## Experience
 
@@ -84,10 +90,6 @@ Hello! I'm Ana Fernández Minguela, an experienced Project Manager and UX Design
 - German (Elementary)
 - French (Elementary)
 
-## Projects
-
-- [Task Manager] ([https://github.com/afminguela/Proyecto_Tareas]): a Simple task manager, close to reality and centered on UX. Made with Js and a fakeRestAPI with JsonServer
-- [ReceKé] ([https://github.com/afminguela/receke-deploy]): TFM of the Frontend Dev certificate done to deploy at Vercel. This project was developed in collab with others students, I developed PM functions also web deployment, Git Merging, Pinia deploy and Wireframing with Figma. 
 
 
 ## Contact
