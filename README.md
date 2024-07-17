@@ -17,28 +17,18 @@ Hello! I'm Ana Fernández Minguela, an experienced Project Manager and UX Design
 
 ## Skills
 
-### Project Management
-| Agile Methodologies | Team Coordination | Process Optimization |
-|:--------------------|:------------------|:---------------------|
-| Scrum               | Risk Management   | Budget Management    |
-| Lean                | Stakeholder Communication | Kanban |
+### 
+| Project Management | UX Design         | Front-End Development |Tools|
+|:--------------------|:------------------|:---------------------|:------|
+| Agile Methodologies | User Research     | HTML, CSS, JavaScript|Jira |
+| Scrum, lean, kaizen | Wireframing       |Responsive Web Design |Confluence|
+| Risk management     | LoFi & HiFi Prototyping | Git/GitHub | Trello|
+| Team Coordination   | Usability Testing | TailwindCSS | Slack, Teams|
+| Process Optimization| Interaction Design| Vue.Js, Pinia | Sharepoint |
+| Stakeholder Communication |Information Architecture| Jest | MOS, Notion|
+|Budget Management    | Figma             |  | Adobe Suite, Canva
 
-### UX Design
-| User Research       | Wireframing       | Prototyping          |
-|:--------------------|:------------------|:---------------------|
-| Usability Testing   | Interaction Design| Information Architecture |
-| Figma               | Adobe XD          | LoFi & HiFi Prototyping |
 
-### Front-End Development
-| HTML                | CSS               | JavaScript           |
-|:--------------------|:------------------|:---------------------|
-| Responsive Web Design | Git/GitHub      | React                |
-| Angular             |                   |                      |
-
-### Tools
-| Jira                | Trello            | Confluence           |
-|:--------------------|:------------------|:---------------------|
-| SharePoint          | Microsoft Office Suite | Adobe Creative Suite |
 
 
 ## Certifications
