@@ -12,8 +12,8 @@ Hello! I'm Ana Fernández Minguela, an experienced Project Manager and UX Design
 
 ## My Favourite Projects
 
-- ####Task Manager ([https://github.com/afminguela/Proyecto_Tareas]): a Simple task manager, close to reality and centered on UX. Made with Js and a fakeRestAPI with JsonServer
-- ####ReceKé ([https://github.com/afminguela/receke-deploy]): TFM of the Frontend Dev certificate done to deploy at Vercel. This project was developed in collab with others students, I developed PM functions also web deployment, Git Merging, Pinia deploy and Wireframing with Figma. 
+- Task Manager ([https://github.com/afminguela/Proyecto_Tareas]): a Simple task manager, close to reality and centered on UX. Made with Js and a fakeRestAPI with JsonServer.
+- ReceKé ([https://github.com/afminguela/receke-deploy]): TFM of the Frontend Dev certificate done to deploy at Vercel. This project was developed in collab with others students, I developed PM functions also web deployment, Git Merging, Pinia deploy and Wireframing with Figma. 
 
 ## Soft and Hard Skills
 
