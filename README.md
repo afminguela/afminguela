@@ -12,6 +12,7 @@ Hello! I'm Ana Fernández Minguela, an experienced Project Manager and UX Design
 
 ## My Favourite Projects
 
+- Agatha: ([[https://github.com/afminguela/Agatha]): TFM of the Backend Dev Certificate on Ironhack. This a game made to theach SQL to Teens while they try to solve a Murder. Is a close to reality proyect made full stack. From Html+Css+JS next to Java and MySQL. using DockerCompose to make it run. I played all roles whithin the proyect, PD, PM, DEV, QA...
 - Task Manager ([https://github.com/afminguela/Proyecto_Tareas]): a Simple task manager, close to reality and centered on UX. Made with Js and a fakeRestAPI with JsonServer.
 - ReceKé ([https://github.com/afminguela/receke-deploy]): TFM of the Frontend Dev certificate done to deploy at Vercel. This project was developed in collab with others students, I developed PM functions also web deployment, Git Merging, Pinia deploy and Wireframing with Figma. 
 
@@ -32,7 +33,7 @@ Hello! I'm Ana Fernández Minguela, an experienced Project Manager and UX Design
 
 
 ## Certifications
-
+- **Back-End Developer Professional Certificate IFCD02** - Ironhack, Barcelona (700h)
 - **Professional Certificate UX Designer** - Google for Education, Coursera (240h)
 - **Front-End Developer Professional Certificate IFCD65** - CodeOp, Barcelona (240h)
 - **Bootcamp UI/UX Designer** - Udemy, 2022
