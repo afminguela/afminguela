@@ -5,7 +5,7 @@
 **LinkedIn:** [linkedin.com/in/afminguela](https://www.linkedin.com/in/afminguela)  
 **Link tree:** [linktr.ee/afminguela](https://linktr.ee/afminguela) 
 
-**Porfolio** []
+
 ---
 
 ## About Me
