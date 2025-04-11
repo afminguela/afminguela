@@ -2,8 +2,10 @@
 
 **Location:** Barcelona, Spain  
 **Email:** [afminguela@gmail.com](mailto:afminguela@gmail.com)  
-**LinkedIn:** [linkedin.com/in/afminguela](https://www.linkedin.com/in/afminguela)
-**Link tree:** [linktr.ee/afminguela](https://linktr.ee/afminguela)
+**LinkedIn:** [linkedin.com/in/afminguela](https://www.linkedin.com/in/afminguela)  
+**Link tree:** [linktr.ee/afminguela](https://linktr.ee/afminguela) 
+
+**Porfolio** []
 ---
 
 ## About Me
@@ -33,7 +35,7 @@ Hello! I'm Ana Fernández Minguela, an experienced Project Manager and UX Design
 
 
 ## Certifications
-- **Back-End Developer Professional Certificate IFCD02** - Ironhack, Barcelona (700h)
+- **Back-End Developer Professional Certificate IFCD0112** - Ironhack, Barcelona (700h)
 - **Professional Certificate UX Designer** - Google for Education, Coursera (240h)
 - **Front-End Developer Professional Certificate IFCD65** - CodeOp, Barcelona (240h)
 - **Bootcamp UI/UX Designer** - Udemy, 2022
