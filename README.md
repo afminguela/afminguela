@@ -3,7 +3,7 @@
 **Location:** Barcelona, Spain  
 **Email:** [afminguela@gmail.com](mailto:afminguela@gmail.com)  
 **LinkedIn:** [linkedin.com/in/afminguela](https://www.linkedin.com/in/afminguela)
-
+**Link tree:** [linktr.ee/afminguela](https://linktr.ee/afminguela)
 ---
 
 ## About Me
